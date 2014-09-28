@@ -1,8 +1,8 @@
 ﻿++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-+    Documentation v0.1								+
-+    Information related to deployment scripts				+
-+    FireEye Agent Remotedeploy Tool					+
-+    by Stuart Davis								+
++    Documentation v0.1						+
++    Information related to deployment scripts			+
++    FireEye Agent Remotedeploy Tool				+
++    by Stuart Davis						+
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Pre-requisites
