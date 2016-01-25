@@ -1,4 +1,4 @@
-﻿+++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
 +    Documentation v0.1								                            
 +    Information related to deployment scripts				            
 +    FireEye Agent Remotedeploy Tool					                    
@@ -7,7 +7,9 @@
 
 Pre-requisites
 ++++++++++++++
-Requires Impacket. To work correctly, the agent remotedeploy tools require to have impacket 0.9.13-dev installed on the the Linux server that the scripts will be run from. http://corelabs.coresecurity.com/index.php?module=Wiki&action=view&type=tool&name=Impacket
+Requires Impacket and ipaddr. 
+To work correctly, the agent remotedeploy tools require to have impacket 0.9.13-dev installed on the the Linux server that the scripts will be run from. http://corelabs.coresecurity.com/index.php?module=Wiki&action=view&type=tool&name=Impacket
+in addition you will require http://code.google.com/p/ipaddr-py/ ipaddr python module installed.
 
 Requires Python V <=2.7.3 
 
