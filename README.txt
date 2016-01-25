@@ -7,9 +7,11 @@
 
 Pre-requisites
 ++++++++++++++
-Requires Impacket and ipaddr. 
+Requires Impacket, ipaddr and ldap modules. 
 To work correctly, the agent remotedeploy tools require to have impacket 0.9.13-dev installed on the the Linux server that the scripts will be run from. http://corelabs.coresecurity.com/index.php?module=Wiki&action=view&type=tool&name=Impacket
-in addition you will require http://code.google.com/p/ipaddr-py/ ipaddr python module installed.
+in addition you will require 
+ - http://code.google.com/p/ipaddr-py/
+ - https://pypi.python.org/pypi/python-ldap
 
 Requires Python V <=2.7.3 
 
