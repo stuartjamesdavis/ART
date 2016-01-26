@@ -12,6 +12,7 @@ To work correctly, the agent remotedeploy tools require to have impacket 0.9.13-
 in addition you will require 
  - http://code.google.com/p/ipaddr-py/
  - https://pypi.python.org/pypi/python-ldap
+ - https://pypi.python.org/pypi/python-nmap
 
 Requires Python V <=2.7.3 
 
